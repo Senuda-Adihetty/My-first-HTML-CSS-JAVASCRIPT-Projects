@@ -1,5 +1,7 @@
 # My-first-HTML-CSS-JAVASCRIPT-Projects
 
+<h3> Web link - https://senuadihetty.w3spaces.com/</h3>
+
 <h4> I made this by following the Black Tiger YouTube channel Responsive Coffee Shop Website Using HTML CSS & JavaScript playlist step by step. </h4>
 <h4> Black Tiger channel link - https://youtube.com/@lakmalsachith8284?si=acnnWXEb9d9TObrN </h4>
 <h4> video 1 - https://youtu.be/GBJ7sg_n3kQ?si=9Nuo_5vXOOlgthKF </h4>
@@ -7,3 +9,5 @@
 <h4> video 3 - https://youtu.be/n_vZqyZ9Ilc?si=hDXzHgy2rgPGub-U </h4>
 <h4> video 4 - https://youtu.be/IFKzmReZ56s?si=Qie5cIc1vOo9jjuO </h4>
 <h4> video 5 - https://youtu.be/UvLqviXP9aY?si=PwiDddgArBF-M3_u </h4>
+<br>
+<img src = "https://github.com/Senuda-Adihetty/My-first-HTML-CSS-JAVASCRIPT-Projects/blob/main/img/web%20banner%20screenshot.png">
