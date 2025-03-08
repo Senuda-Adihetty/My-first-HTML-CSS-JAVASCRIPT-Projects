@@ -1,6 +1,6 @@
 # My-first-HTML-CSS-JAVASCRIPT-Projects
 
-<h3> Web link - https://senuadihetty.w3spaces.com/</h3>
+<h3> Web link - https://senuda429.w3spaces.com</h3>
 
 <h4> I made this by following the Black Tiger YouTube channel Responsive Coffee Shop Website Using HTML CSS & JavaScript playlist step by step. </h4>
 <h4> Black Tiger channel link - https://youtube.com/@lakmalsachith8284?si=acnnWXEb9d9TObrN </h4>
